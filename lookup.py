@@ -64,8 +64,8 @@ def tweet_preprocessing(tweet):
 
 
 def get_reddit_posts(keyword, num_posts=100):
-    client_id = "mg08wSP1NEHdCxactwgojA"
-    client_secret = "xpXS3RiFs_tQk4f43vFDo_eLBbLYjA"
+    client_id = <>
+    client_secret = <>
     user_agent = "myAPI/0.0.1"
 
     # Authenticate with the Reddit API
